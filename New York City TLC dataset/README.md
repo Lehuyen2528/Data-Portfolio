@@ -1,6 +1,5 @@
-# Purpose of this project
-- Practice Explored, clean and visualize dataset using python
-- The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. 
+# Project Objective
+The primary aim of this project is to gain practical experience in exploring, cleaning, and visualizing datasets using Python.
 
 # Project task
 - Explored dataset to find any unusual values.
@@ -12,5 +11,3 @@
 1. Conduct a complete exploratory data analysis.
 2. Perform any data cleaning and data analysis steps to understand unusual variables (e.g., outliers).
 3. Use descriptive statistics to learn more about the data. 
-
-test
